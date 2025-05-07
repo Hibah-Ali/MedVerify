@@ -5,16 +5,16 @@
 
 ---
 
-## 📱 Features
+##  Features
 
-- 📷 **Barcode Scanner** using device camera
-- ✅ **Verification Result Screen** showing medicine status
-- ☁️ **Mock Google Sheets Backend** (replaceable with real health authority database)
-- 🔒 Future plans for API integration with official regulatory bodies
+-  **Barcode Scanner** using device camera
+-  **Verification Result Screen** showing medicine status
+-  **Mock Google Sheets Backend** (replaceable with real health authority database)
+-  Future plans for API integration with official regulatory bodies
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ npx expo start
 
 ---
 
-## 🧪 How It Works
+##  How It Works
 
 1. User opens the app and scans the barcode on medicine packaging.
 2. The app checks the barcode against a Google Sheet (mock backend).
@@ -41,7 +41,7 @@ npx expo start
 
 ---
 
-## 🌍 Vision
+##  Vision
 
 MedVerify is part of a broader public health effort to:
 
@@ -51,7 +51,7 @@ MedVerify is part of a broader public health effort to:
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - React Native (Expo)
 - Google Sheets API (mock database)
@@ -59,7 +59,7 @@ MedVerify is part of a broader public health effort to:
 
 ---
 
-## 🧑‍⚕️ Use Case Scenarios
+##  Use Case Scenarios
 
 - Pharmacists verifying stock
 - Public awareness campaigns
@@ -68,7 +68,7 @@ MedVerify is part of a broader public health effort to:
 
 ---
 
-## 🛡️ Future Enhancements
+##  Future Enhancements
 
 - Integration with official Drug Regulatory Authority API
 - Offline caching for remote areas
@@ -77,11 +77,11 @@ MedVerify is part of a broader public health effort to:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Built by [Hibah Ali](https://github.com/Hibah-Ali)  
-For inquiries, collaboration, or demo: **medverify.app@gmail.com**
+For inquiries, collaboration, or demo: **medverify.app@gmail.com or hibahalei@gmail.com**
 
 ---
 
-> ⚠️ *This is a prototype for demonstration purposes only.*
+>  *This is a prototype for demonstration purposes only.*
